@@ -1,0 +1,49 @@
+body {
+    background-color: aqua;
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-style: italic;
+}
+
+p{
+    color: darkolivegreen;
+}
+
+.common{
+    /* background-color: #cccccc; */
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+}
+
+.leftmenu{
+    top: 64px;
+    left: 5px;
+    width: 300px;
+    bottom: 10px;
+}
+
+.mainbody{
+top: 64px;
+left: 325px;
+right: 325px;
+bottom: 10px;
+}
+.rightmenu{
+top: 64px;
+right: 5px;
+width: 300px;
+bottom: 10px;
+
+}
